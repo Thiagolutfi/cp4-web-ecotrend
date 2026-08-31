@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "homepage": "https://seu-usuario.github.io/seu-projeto",
+    "homepage": "https://thiagolutfi.github.io/cp4-web-ecotrend",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "dev": "vite",

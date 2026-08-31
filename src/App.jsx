@@ -32,7 +32,7 @@ function App() {
         setLoading(true);
         setError(null);
 
-        const response = await fetch('/produtos.json');
+        const response = await fetch(`${import.meta.env.BASE_URL}produtos.json`);
 
         if (!response.ok) {
           throw new Error(`Erro de rede: ${response.status} ${response.statusText}`);
