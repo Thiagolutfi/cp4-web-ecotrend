@@ -69,10 +69,3 @@ O estado `carrinho` é inicializado lendo `localStorage.getItem('ecotrend_carrin
 
 ### Checkout com Promises
 Em `Checkout.jsx`, a função `finalizarCompra` retorna uma `new Promise((resolve, reject) => {...})` que, após um `setTimeout` de 2 segundos (simulando o processamento do pedido), resolve com uma mensagem de sucesso ou rejeita com uma mensagem de erro (simulando falha no pagamento). O componente chama essa função com `await` dentro de um `try/catch/finally`, controlando o estado `processando` para exibir o `Spinner` durante a espera.
-
-## Deploy
-Sugestão: publicar via Vercel ou GitHub Pages, conforme orientado no checkpoint.
-
-## Próximos passos possíveis
-- Trocar o `fetch('/produtos.json')` por uma API real (ex: JSON Server local ou JSONPlaceholder).
-- Adicionar autenticação simples de usuário (como visto na Aula 15, com JWT).
