@@ -1,0 +1,14 @@
+[
+  { "id": 1, "nome": "Camiseta de Algodão Orgânico", "categoria": "Roupas", "preco": 79.9, "emoji": "👕", "descricao": "Camiseta 100% algodão orgânico, tingimento natural." },
+  { "id": 2, "nome": "Ecobag de Juta", "categoria": "Roupas", "preco": 39.9, "emoji": "🛍️", "descricao": "Bolsa reutilizável feita de fibra de juta." },
+  { "id": 3, "nome": "Sabonete Artesanal Natural", "categoria": "Beleza", "preco": 19.9, "emoji": "🧼", "descricao": "Sabonete vegano com óleos essenciais." },
+  { "id": 4, "nome": "Shampoo em Barra", "categoria": "Beleza", "preco": 34.9, "emoji": "🧴", "descricao": "Shampoo sólido, sem embalagem plástica." },
+  { "id": 5, "nome": "Escova de Dente de Bambu", "categoria": "Beleza", "preco": 14.9, "emoji": "🪥", "descricao": "Cerdas biodegradáveis e cabo de bambu." },
+  { "id": 6, "nome": "Kit de Talheres de Bambu", "categoria": "Casa", "preco": 49.9, "emoji": "🍴", "descricao": "Talheres reutilizáveis para substituir o descartável." },
+  { "id": 7, "nome": "Absorvente de Silicone Reutilizável", "categoria": "Casa", "preco": 59.9, "emoji": "🧽", "descricao": "Substitui o uso de esponjas de louça descartáveis." },
+  { "id": 8, "nome": "Vaso Autoirrigável Reciclado", "categoria": "Casa", "preco": 89.9, "emoji": "🪴", "descricao": "Feito com plástico reciclado, ideal para temperos." },
+  { "id": 9, "nome": "Carregador Solar Portátil", "categoria": "Tecnologia", "preco": 149.9, "emoji": "🔋", "descricao": "Carrega dispositivos usando energia solar." },
+  { "id": 10, "nome": "Lâmpada LED de Baixo Consumo", "categoria": "Tecnologia", "preco": 29.9, "emoji": "💡", "descricao": "Consome até 80% menos energia que uma lâmpada comum." },
+  { "id": 11, "nome": "Fone de Ouvido Sustentável", "categoria": "Tecnologia", "preco": 129.9, "emoji": "🎧", "descricao": "Carcaça feita de material reciclado e biodegradável." },
+  { "id": 12, "nome": "Calça de Fibra Reciclada", "categoria": "Roupas", "preco": 159.9, "emoji": "👖", "descricao": "Fabricada com garrafas PET recicladas." }
+]
